@@ -282,7 +282,7 @@ wepy.page({
         list: [
           {
             childid: '3.1',
-            childname: '子项，点我改变'
+            childname: '子项，点我改变!'
           }
         ]
       }
